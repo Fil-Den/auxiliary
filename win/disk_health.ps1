@@ -1,0 +1,1 @@
+Get-Disk | Get-StorageReliabilityCounter | Format-List -Property *
